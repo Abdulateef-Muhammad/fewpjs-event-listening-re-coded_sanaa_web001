@@ -1,4 +1,4 @@
 let input = document.getElementById('input');
 
-function addingEventListener() {
+function addingEventListener('click', function(event)) {
 }
